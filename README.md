@@ -1,5 +1,5 @@
 # calendario-app
-Ver el sitio aquí calendario-app-vuetify.netlify.app
+Ver el sitio aquí https://calendario-app-vuetify.netlify.app/
 ## Project setup
 ```
 npm install
